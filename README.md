@@ -1,4 +1,4 @@
-# Face Muse Memory Template
+# Meta’s Muse AI Starter Kit: Face Muse Memory Template
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
