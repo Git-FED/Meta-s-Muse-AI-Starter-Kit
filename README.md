@@ -1,5 +1,7 @@
 # Meta’s Muse AI Starter Kit: Face Muse Memory Template
 
+<img width="1280" height="698" alt="Screenshot 2026-10-22 081715" src="https://github.com/user-attachments/assets/7a3b3648-188a-4505-8f84-1ee36b08f56c" />
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **A small, versioned memory bundle that helps AI agents carry forward the rules, preferences, tasks, and handoff context that matter.**
